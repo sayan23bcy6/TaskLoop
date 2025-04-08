@@ -41,7 +41,7 @@ Auth: Supabase Auth
 
 📦 Getting Started
 # Clone the repo
-git clone https://github.com/user0045/taskloop
+git clone [https://github.com/user0045/taskloop](https://github.com/sayan23bcy6/TaskLoop)
 
 # Install dependencies
 npm install
